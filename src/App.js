@@ -31,7 +31,6 @@ function App() {
           setCantidad={setCantidad}
           plazo={plazo}
           setPlazo={setPlazo}
-          total={setTotal}
           setTotal={setTotal}
           setCargando={setCargando}
         />
